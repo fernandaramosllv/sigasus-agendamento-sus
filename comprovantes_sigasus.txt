@@ -1,0 +1,24 @@
+==================================================
+        COMPROVANTE DE ATENDIMENTO - SIGASUS
+              Sistema Unico de Saude
+==================================================
+Paciente:       Maria Silva
+Cartao SUS:     123456789012345
+CPF:            52998224725
+Contato:        83 99999-0000
+--------------------------------------------------
+Classificacao:  AMARELO (Urgente)
+Prioridade:     Prioridade media - atendimento rapido
+Data:           27/06/2026
+Horario:        09:00
+--------------------------------------------------
+UBS indicada:   UBS Nossa Senhora Aparecida
+Bairro:         Catole
+CEP informado:  58410100
+Responsavel:    Equipe de Saude da Familia
+==================================================
+ATENCAO SR. USUARIO
+Prioridade do caso: AMARELO (Urgente)
+Compareca com um documento com foto na data e horario marcado.
+==================================================
+
